@@ -1,0 +1,14 @@
+# root .editorconfig
+root = true
+
+# Unix-style line endings
+[*]
+end_of_line = lf
+
+# characters
+charset = utf-8
+
+# spacing
+[*.{xq,xqm,xqy,xquery,xsl,xslt,xml}]
+indent_style = space
+indent_size = 2
